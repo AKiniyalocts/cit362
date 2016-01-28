@@ -1,0 +1,31 @@
+input1.txt console:
+
+Enter the filename to be scanned:  input1.txt
+Input file: input1.txt
+Output file: output.txt
+Number of input chars: 93
+Number of output chars: 37
+Percent reduction in output: 39.78 %
+Program ended with exit code: 0
+
+
+input2.txt console:
+
+Enter the filename to be scanned:  input2.txt
+Input file: input2.txt
+Output file: output.txt
+Number of input chars: 351
+Number of output chars: 154
+Percent reduction in output: 43.87 %
+Program ended with exit code: 0
+
+
+input3.txt console:
+
+Enter the filename to be scanned:  input3.txt
+Input file: input3.txt
+Output file: output.txt
+Number of input chars: 740
+Number of output chars: 669
+Percent reduction in output: 90.41 %
+Program ended with exit code: 0

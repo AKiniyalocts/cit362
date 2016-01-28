@@ -1,0 +1,23 @@
+input2.txt  output: 
+
+Information is not knowledge knowledge is not wisdom.
+Wisdom is not truth truth is not beauty.
+Beauty is not love love is not music music is the best.
+
+input3.txt  output: 
+
+Do not speak of withered trees of lichen strangled coverings.
+And life just barely in the leaves it will not be undone.
+
+Do not speak of withered trees of lichen strangled coverings.
+And life just barely in the leaves it will not be undone.
+
+Do not speak of what weve seen of water choking algae.
+And dust where fountains used to be it will not be undone.
+A wilderness unraveling weve only just begun.
+
+Do not speak of ice retreat of islands eaten by the sea.
+And industry economy weve only just begun it will not be undone.
+
+Do not speak oh do not speak your tongue is dry your voice is weak.
+The time has passed for words to seek it will not be undone. 
